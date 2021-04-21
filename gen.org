@@ -1,0 +1,23 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+options: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+options: email:nil f:t inline:t num:t p:nil pri:nil prop:nil stat:t tags:t
+#+options: tasks:t tex:t timestamp:t title:t toc:t todo:t |:t
+#+title: gen
+#+date: <2021-04-21 mi.>
+#+author: Arturo Llaja AlarcÃ³n
+#+email: artus.lla@gmail.com
+#+language: es
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 27.1 (Org mode 9.3)
+
+* Consideraciones para la transferencia de información
+a. La información que las IPRESS y UGIPRESS deben enviar a SUSALUD será a
+   través de archivos planos (formato .txt).
+b. Los campos de cada archivo plano den estar delimitados con el caracter pipe
+   (|) (ASCII 124).
+c. El estándar de codificación de los archivos planos debe ser ANSI.
+d. Los archivos planos no deben contener líneas en blanco.
+e. Los archivos planos se deben de agrupar en paquetes de envío.
+f. Solo se considerará como información remitida la carga de las 13 tramas
+   especificadas en el Anexo 1.
